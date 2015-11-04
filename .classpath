@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bld" path="apps"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="/Users/mahmoudawadeen/Documents/workspace/sphinx4-1.0beta5-src/sphinx4-1.0beta5/bld"/>
+	<classpathentry kind="con" path="/Users/mahmoudawadeen/Documents/workspace/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/sphinx4.jar"/>
+	<classpathentry kind="con" path="/Users/mahmoudawadeen/Documents/workspace/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/jsapi.jar"/>
+	<classpathentry kind="con" path="/Users/mahmoudawadeen/Documents/workspace/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/tags.jar"/>
+	<classpathentry kind="con" path="/Users/mahmoudawadeen/Documents/workspace/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/js.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/tags.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="/Users/mahmoudawadeen/Documents/workspace/Sphinx-4_apps/lib/sphinx4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
